@@ -1,6 +1,5 @@
 <!-- 타이틀 부분 -->
 <div align="center">
-  <img width="848" alt="스크린샷 2025-05-04 오후 1 55 36" src="https://github.com/user-attachments/assets/5ced7c6e-7f7f-4237-84ea-2385bef1e136" />
 </div>
 
 
@@ -60,10 +59,10 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@elre519/posts">
+  <a href="https://velog.io/@jahee00/posts">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <a href="mailto:elre519@naver.com">
-    <img src="https://img.shields.io/badge/elre519@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
+  <a href="mailto:jahee0128@naver.com">
+    <img src="https://img.shields.io/badge/jahee0128@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
   </a>
 </div>
