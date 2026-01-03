@@ -46,7 +46,7 @@
 
 <br>
 
-
+![GitHub stats](https://github-readme-stats-three-pi-26.vercel.app/api?username=jahee24&count_private=true&show_icons=true&count_private=true)
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
