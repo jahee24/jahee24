@@ -55,6 +55,6 @@
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
   <a href="mailto:jahee0128@naver.com">
-    <img src="https://img.shields.io/badge/jahee0128@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/jahee24.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
   </a>
 </div>
