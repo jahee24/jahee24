@@ -46,14 +46,6 @@
 
 <br>
 
-<h3 align="center">💻 GitHub stats 💻</h3>
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=jahee24&show_icons=true&theme=radical" alt="05Daul's GitHub stats" />
-
-
-</div>
 
 <br>
 
